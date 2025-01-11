@@ -43,7 +43,7 @@ IT Classroom Bot is a Discord bot designed to streamline the onboarding process 
 3. Set up a `.env` file with the following variables:
    ```env
    DS_TOKEN=your_discord_bot_token
-   GUILD_ID=your_server_ild
+   GUILD_ID=your_server_id
    CLIENT_ID=your_client_id
    GITHUB_AUTH=your_github_auth
    ```
